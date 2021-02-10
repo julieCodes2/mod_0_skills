@@ -1,0 +1,21 @@
+var famousPerson = "Brad Pitt";
+var isActive = true;
+famousPerson = "Jennifer Garner";
+var num3 = 3;
+var num9 = 4;
+var num3 = 3; var num9 = 4; var result = 3 + 4;
+var sum = num3+=num9;
+document.getElementById("7"). value = sum;
+var sum = 7;
+var animals = ["cat", "dog", "bird"];
+document.getElementById ("demo").innerHTML = animals;
+function myFunction() {
+animals.shift()
+document.getElementById("demo").innerhtml = animals;
+}
+or
+animals.shift()
+console.log(animals);
+var str = "Jennifer Garner";
+var n =str.lenght;
+16
