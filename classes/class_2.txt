@@ -1,0 +1,10 @@
+Library
+totalNumberOfBooks (integer)
+hasLibrarian = (boolean)
+address = string
+employees [array]
+
+updateTotalNumberOfBooks (updates the totalNumberOfBooks attribute)
+removeLibrarian (updates the haslibrarian attribute)
+updateAddress (updates the address attribute)
+addEmployee (updates the employees attribute)
