@@ -1,0 +1,12 @@
+My Teacher named Ms. Bettina
+Ms. Bettina
+age = 26;
+isYoung = true;
+name = "Bettina";
+daysPresent = ["Monday", "Tuesday, "Wednesday"];
+
+Methods
+editAge = 28
+changeToOld = true
+updateName = "Bettina Anne"
+changeDaysPresent = ["Tuesday", "Wednesday", "Thursday"];
