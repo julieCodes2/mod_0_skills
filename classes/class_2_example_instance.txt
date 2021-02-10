@@ -1,0 +1,12 @@
+Turing Library
+
+totalNumberOfBooks = 100;
+hasLibrarian = true;
+address = "Denver"
+employees ["Tin, "Ara"];
+
+Methods
+updateTotalNumberOfBooks = 101;
+removeLibrarian = true;
+updateAddress = "Colorado Springs";
+addEmployee ["Leo"]; 
