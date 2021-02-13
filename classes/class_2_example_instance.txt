@@ -1,12 +1,11 @@
-Turing Library
+TuringLibrary
 
 totalNumberOfBooks = 100;
 hasLibrarian = true;
-address = "Denver"
-employees ["Tin, "Ara"];
+address = "Denver";
+employees ["Tin", "Ara"];
 
-Methods
-updateTotalNumberOfBooks = 101;
-removeLibrarian = true;
-updateAddress = "Colorado Springs";
-addEmployee ["Leo"]; 
+updateTotalNumberOfBooks: totalNumberofBooks = 101;
+removeLibrarian: hasLibrarian = false;
+updateAddress: address = "Colorado Springs";
+addEmployee: employees = ["Tin", "Ara", "Leo"];
