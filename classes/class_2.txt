@@ -1,8 +1,9 @@
 Library
+
 totalNumberOfBooks (integer)
-hasLibrarian = (boolean)
-address = string
-employees [array]
+hasLibrarian (boolean)
+address (string)
+employees (array)
 
 updateTotalNumberOfBooks (updates the totalNumberOfBooks attribute)
 removeLibrarian (updates the haslibrarian attribute)
