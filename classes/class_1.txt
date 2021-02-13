@@ -1,11 +1,11 @@
 Teacher
-attributes
+
 age (integer)
-isYoung (boolean)
+hasWrinkles (boolean)
 name (string)
 daysPresent (array)
-methods
+
 editAge (edits the age attribute)
-changeToOld (edits the isYoung attribute)
+removeWrinkles (edits the hasWrinkles attribute)
 updateName (updates the name attribute)
 changeDaysPresent (updates the daysPresent attribute)
