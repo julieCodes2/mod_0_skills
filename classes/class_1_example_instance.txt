@@ -1,10 +1,9 @@
 TeacherBettina
 
-var age = 26;
-var hasWrinkles = true;
-var name = "Bettina";
-var daysPresent = ["Mondays", "Tuesdays", "Wednesdays"];
-
+age = 26;
+hasWrinkles = true;
+name = "Bettina";
+daysPresent = ["Mondays", "Tuesdays", "Wednesdays"];
 
 editAge: age = 50;
 removeWrinkles: hasWrinkles = false;
