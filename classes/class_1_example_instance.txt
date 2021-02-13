@@ -1,12 +1,12 @@
-My Teacher named Ms. Bettina
-Ms. Bettina
-age = 26;
-isYoung = true;
-name = "Bettina";
-daysPresent = ["Monday", "Tuesday, "Wednesday"];
+TeacherBettina
 
-Methods
-editAge = 28
-changeToOld = true
-updateName = "Bettina Anne"
-changeDaysPresent = ["Tuesday", "Wednesday", "Thursday"];
+var age = 26;
+var hasWrinkles = true;
+var name = "Bettina";
+var daysPresent = ["Mondays", "Tuesdays", "Wednesdays"];
+
+
+editAge: age = 50;
+removeWrinkles: hasWrinkles = false;
+updateName: name = "Bettina Anne";
+changeDaysPresent: daysPresent = ["Tuesdays", "Wednesdays", "Thursdays"];
