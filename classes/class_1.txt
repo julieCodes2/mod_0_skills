@@ -1,10 +1,10 @@
-Class in a School = Teacher
+Teacher
 attributes
 age (integer)
 isYoung (boolean)
 name (string)
 daysPresent (array)
-
+methods
 editAge (edits the age attribute)
 changeToOld (edits the isYoung attribute)
 updateName (updates the name attribute)
